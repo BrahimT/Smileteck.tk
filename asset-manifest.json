@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Smileteck.tk/static/css/main.85ece860.chunk.css",
+    "main.js": "/Smileteck.tk/static/js/main.1e0c2b4a.chunk.js",
+    "main.js.map": "/Smileteck.tk/static/js/main.1e0c2b4a.chunk.js.map",
+    "runtime-main.js": "/Smileteck.tk/static/js/runtime-main.b802c21d.js",
+    "runtime-main.js.map": "/Smileteck.tk/static/js/runtime-main.b802c21d.js.map",
+    "static/js/2.c327a5f8.chunk.js": "/Smileteck.tk/static/js/2.c327a5f8.chunk.js",
+    "static/js/2.c327a5f8.chunk.js.map": "/Smileteck.tk/static/js/2.c327a5f8.chunk.js.map",
+    "static/js/3.ebd94a99.chunk.js": "/Smileteck.tk/static/js/3.ebd94a99.chunk.js",
+    "static/js/3.ebd94a99.chunk.js.map": "/Smileteck.tk/static/js/3.ebd94a99.chunk.js.map",
+    "index.html": "/Smileteck.tk/index.html",
+    "static/css/main.85ece860.chunk.css.map": "/Smileteck.tk/static/css/main.85ece860.chunk.css.map",
+    "static/js/2.c327a5f8.chunk.js.LICENSE.txt": "/Smileteck.tk/static/js/2.c327a5f8.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Smileteck.tk/static/media/w.76bd3af7.jpg",
+    "static/media/o.20077e60.jpg": "/Smileteck.tk/static/media/o.20077e60.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b802c21d.js",
+    "static/js/2.c327a5f8.chunk.js",
+    "static/css/main.85ece860.chunk.css",
+    "static/js/main.1e0c2b4a.chunk.js"
+  ]
+}
